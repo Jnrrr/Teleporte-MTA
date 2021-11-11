@@ -1,0 +1,4 @@
+<meta>
+    <info author="Jnr" type="script" version="1.0" description="Script utilizado para teletransportar em várias locais de san andreas." name="Teleporte." />
+	<script src="Tp.lua" type="server" cache="false" />
+</meta>
